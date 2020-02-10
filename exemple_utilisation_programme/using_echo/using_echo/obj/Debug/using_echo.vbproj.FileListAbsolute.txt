@@ -1,0 +1,24 @@
+C:\Users\jalesbia\source\repos\using_echo\using_echo\bin\Debug\using_echo.exe.config
+C:\Users\jalesbia\source\repos\using_echo\using_echo\bin\Debug\using_echo.exe
+C:\Users\jalesbia\source\repos\using_echo\using_echo\bin\Debug\using_echo.pdb
+C:\Users\jalesbia\source\repos\using_echo\using_echo\bin\Debug\using_echo.xml
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.vbprojAssemblyReference.cache
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.Form1.resources
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.Resources.resources
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.vbproj.GenerateResource.cache
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.vbproj.CoreCompileInputs.cache
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.exe
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.xml
+C:\Users\jalesbia\source\repos\using_echo\using_echo\obj\Debug\using_echo.pdb
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\bin\Debug\using_echo.exe.config
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\bin\Debug\using_echo.exe
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\bin\Debug\using_echo.pdb
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\bin\Debug\using_echo.xml
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.vbprojAssemblyReference.cache
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.Form1.resources
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.Resources.resources
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.vbproj.GenerateResource.cache
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.vbproj.CoreCompileInputs.cache
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.exe
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.xml
+H:\COMMUN\DUT 1ere année\IHM VB\Semaine 5\exemple_utilisation_programme\using_echo\using_echo\obj\Debug\using_echo.pdb

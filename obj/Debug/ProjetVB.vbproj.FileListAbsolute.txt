@@ -1,0 +1,68 @@
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\bin\Debug\ProjetVB.exe.config
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\bin\Debug\ProjetVB.exe
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\bin\Debug\ProjetVB.pdb
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\bin\Debug\ProjetVB.xml
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.vbprojAssemblyReference.cache
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.Form1.resources
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.Resources.resources
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.vbproj.GenerateResource.cache
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.vbproj.CoreCompileInputs.cache
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.exe
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.xml
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.pdb
+C:\Users\Evariste\Documents\Visual Studio 2019\ProjetVB\obj\Debug\ProjetVB.Form2.resources
+D:\Projet IHM\ProjetVB\bin\Debug\ProjetVB.exe.config
+D:\Projet IHM\ProjetVB\bin\Debug\ProjetVB.exe
+D:\Projet IHM\ProjetVB\bin\Debug\ProjetVB.pdb
+D:\Projet IHM\ProjetVB\bin\Debug\ProjetVB.xml
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.vbprojAssemblyReference.cache
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.Form1.resources
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.Form2.resources
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.Resources.resources
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.vbproj.GenerateResource.cache
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.vbproj.CoreCompileInputs.cache
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.exe
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.xml
+D:\Projet IHM\ProjetVB\obj\Debug\ProjetVB.pdb
+Z:\ProjetVB\bin\Debug\ProjetVB.exe.config
+Z:\ProjetVB\bin\Debug\ProjetVB.exe
+Z:\ProjetVB\bin\Debug\ProjetVB.pdb
+Z:\ProjetVB\bin\Debug\ProjetVB.xml
+Z:\ProjetVB\obj\Debug\ProjetVB.vbprojAssemblyReference.cache
+Z:\ProjetVB\obj\Debug\ProjetVB.Form1.resources
+Z:\ProjetVB\obj\Debug\ProjetVB.Form2.resources
+Z:\ProjetVB\obj\Debug\ProjetVB.Form3.resources
+Z:\ProjetVB\obj\Debug\ProjetVB.Resources.resources
+Z:\ProjetVB\obj\Debug\ProjetVB.vbproj.GenerateResource.cache
+Z:\ProjetVB\obj\Debug\ProjetVB.vbproj.CoreCompileInputs.cache
+Z:\ProjetVB\obj\Debug\ProjetVB.exe
+Z:\ProjetVB\obj\Debug\ProjetVB.xml
+Z:\ProjetVB\obj\Debug\ProjetVB.pdb
+E:\ProjetVB\obj\Debug\ProjetVB.vbprojAssemblyReference.cache
+E:\ProjetVB\obj\Debug\ProjetVB.Form1.resources
+E:\ProjetVB\obj\Debug\ProjetVB.Form2.resources
+E:\ProjetVB\obj\Debug\ProjetVB.Form3.resources
+E:\ProjetVB\obj\Debug\ProjetVB.Resources.resources
+E:\ProjetVB\obj\Debug\ProjetVB.vbproj.GenerateResource.cache
+E:\ProjetVB\obj\Debug\ProjetVB.vbproj.CoreCompileInputs.cache
+E:\ProjetVB\obj\Debug\ProjetVB.exe
+E:\ProjetVB\obj\Debug\ProjetVB.xml
+E:\ProjetVB\obj\Debug\ProjetVB.pdb
+E:\ProjetVB\bin\Debug\ProjetVB.exe.config
+E:\ProjetVB\bin\Debug\ProjetVB.exe
+E:\ProjetVB\bin\Debug\ProjetVB.pdb
+E:\ProjetVB\bin\Debug\ProjetVB.xml
+D:\ProjetVB\obj\Debug\ProjetVB.vbprojAssemblyReference.cache
+D:\ProjetVB\obj\Debug\ProjetVB.Form1.resources
+D:\ProjetVB\obj\Debug\ProjetVB.Form2.resources
+D:\ProjetVB\obj\Debug\ProjetVB.Form3.resources
+D:\ProjetVB\obj\Debug\ProjetVB.Resources.resources
+D:\ProjetVB\obj\Debug\ProjetVB.vbproj.GenerateResource.cache
+D:\ProjetVB\obj\Debug\ProjetVB.vbproj.CoreCompileInputs.cache
+D:\ProjetVB\obj\Debug\ProjetVB.exe
+D:\ProjetVB\obj\Debug\ProjetVB.xml
+D:\ProjetVB\obj\Debug\ProjetVB.pdb
+D:\ProjetVB\bin\Debug\ProjetVB.exe.config
+D:\ProjetVB\bin\Debug\ProjetVB.exe
+D:\ProjetVB\bin\Debug\ProjetVB.pdb
+D:\ProjetVB\bin\Debug\ProjetVB.xml
